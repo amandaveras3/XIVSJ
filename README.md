@@ -1,67 +1,242 @@
-# XIV São João — EEEP Alfredo Nunes de Melo
+# XIV São João Solidário 2026 — EEEP Alfredo Nunes de Melo
 
-Site oficial do XIV São João da EEEP Alfredo Nunes de Melo.
+## 🌽 Cordel, Cultura e Tradição
 
-## 🌽 Sobre o Projeto
+O **XIV São João Solidário 2026** é o site oficial do evento junino da **EEEP Alfredo Nunes de Melo**, publicado na web através da Netlify:
 
-O projeto foi desenvolvido com o objetivo de divulgar o evento junino da escola, reunindo informações sobre:
+[Acessar o site oficial](https://xivsaojoao.netlify.app/?utm_source=chatgpt.com)
 
-- Enredo da quadrilha
-- Programação do evento
-- Venda de cartelas
-- Equipe organizadora
-- Identidade visual do arraial
-- Cultura nordestina, cordel e tradição junina
+O projeto foi desenvolvido para divulgar:
 
-O site foi pensado para oferecer uma experiência moderna, responsiva e acessível tanto em computadores quanto em dispositivos móveis.
-
----
-
-## 🎨 Tema
-
-O projeto valoriza elementos da cultura popular nordestina, utilizando:
-
-- Estética inspirada em cordel
-- Paleta de cores junina
-- Tipografia temática
-- Elementos visuais tradicionais
-- Responsividade mobile
+* programação oficial;
+* enredo temático;
+* bingo solidário;
+* destaques juninos;
+* vídeo oficial;
+* patrocinadores;
+* ações solidárias;
+* informações gerais do evento.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+# ✨ Sobre o projeto
 
-- HTML5
-- CSS3
-- JavaScript
-- Hospedagem via Netlify
+O site une:
+
+* cultura nordestina;
+* literatura de cordel;
+* tradição junina;
+* solidariedade;
+* protagonismo estudantil;
+* identidade visual moderna.
+
+Tudo isso em uma experiência:
+
+* responsiva;
+* multilíngue;
+* animada;
+* acessível;
+* adaptada para dispositivos móveis.
+
+---
+
+# 🌐 Funcionalidades
+
+## 🌍 Tradução multilíngue
+
+O site possui suporte completo para:
+
+* Português (Brasil)
+* English
+* Português (Portugal)
+* Español
+
+A tradução acontece dinamicamente em tempo real.
+
+---
+
+## 🌙 Tema claro e escuro
+
+Sistema completo de:
+
+* Light Mode
+* Dark Mode
+
+com adaptação automática de:
+
+* cores;
+* molduras;
+* textos;
+* seções;
+* elementos visuais.
 
 ---
 
 ## 📱 Responsividade
 
-O site foi desenvolvido para funcionar em:
+O site foi desenvolvido para:
 
-- Desktop
-- Tablets
-- Smartphones
+* celulares;
+* tablets;
+* notebooks;
+* desktops.
+
+Incluindo:
+
+* navbar responsiva;
+* menu mobile;
+* layout adaptável;
+* animações fluidas.
 
 ---
 
-## 🚀 Publicação
+## ⏳ Contagem regressiva
 
-O projeto está hospedado na Netlify.
+Contagem regressiva automática até:
+
+**30 de junho de 2026 às 18h**
+
+com atualização em tempo real de:
+
+* dias;
+* horas;
+* minutos;
+* segundos.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🎭 Enredo Temático
 
-```bash
-/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── imagens
-│   ├── icones
-│   └── banners
+Área especial dedicada ao enredo do evento:
+
+> “A noite é nossa, do jeito que o pecado gosta.”
+
+Inspirado em:
+
+* cordel;
+* cultura popular;
+* teatralidade junina;
+* tradição nordestina.
+
+---
+
+## 👑 Destaques Juninos
+
+Página dedicada aos destaques da quadrilha:
+
+* reis da noite;
+* casal de noivos;
+* marcador;
+* personagens temáticos.
+
+---
+
+## 🎬 Divulgação Oficial
+
+Página especial para divulgação do vídeo oficial do evento no Instagram, incentivando:
+
+* curtidas;
+* comentários;
+* compartilhamentos;
+* apoio à divulgação.
+
+---
+
+## 🤝 Área de patrocinadores
+
+Seção voltada para apoiadores e patrocinadores do evento, com integração direta ao WhatsApp.
+
+---
+
+## 🎟️ Bingo Solidário
+
+Sistema de divulgação das cartelas solidárias:
+
+* valor da cartela;
+* prêmio principal;
+* horário do bingo;
+* participação da comunidade.
+
+---
+
+# 🛠️ Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript Vanilla
+
+---
+
+# 🎨 Recursos visuais
+
+* animações reveal;
+* navbar inteligente;
+* glassmorphism;
+* gradientes modernos;
+* identidade visual temática;
+* efeitos responsivos;
+* dark mode completo.
+
+---
+
+# 📂 Estrutura do projeto
+
+```txt
+📁 assets
+ ┣ 📁 images
+ ┣ 📁 icons
+ ┗ 📁 videos
+
+📄 index.html
+📄 style.css
+📄 script.js
+📄 README.md
+```
+
+---
+
+# 🚀 Publicação
+
+O projeto foi publicado utilizando:
+
+* Netlify
+
+Link oficial:
+
+[https://xivsaojoao.netlify.app/](https://xivsaojoao.netlify.app/?utm_source=chatgpt.com)
+
+---
+
+# 🔒 Direitos autorais
+
+Projeto desenvolvido para:
+
+**EEEP Alfredo Nunes de Melo**
+
+Todos os direitos reservados © 2026
+
+---
+
+# 👨‍💻 Desenvolvimento
+
+Desenvolvido por:
+
+**Amanda Félix Veras**
+
+---
+
+# 📱 Redes sociais
+
+Instagram oficial da escola:
+
+```txt
+@eeepalfredonunes
+```
+
+---
+
+# 🌽 XIV São João Solidário 2026
+
+## Cordel, Cultura e Tradição
+
+> “A noite é nossa, do jeito que o pecado gosta.”
